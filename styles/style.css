@@ -25,7 +25,7 @@ hr{
 .container{
     background-color: #FFFFFF;
     width: 870px;
-    /* height: 679px; */
+    margin-bottom: 29px;
     padding-left: 30px;
     padding-top: 30px;
   
@@ -93,6 +93,20 @@ hr{
 .info a{
     text-decoration: none;
     color: #562EFF;
+}
+
+.courses .course-banner img{
+    width: 224px;
+    height: 104px;
+}
+.course{
+    display: flex;
+}
+
+.course-info{
+    display: flex;
+    align-items: center;
+   
 }
 
 
